@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YfOqCwEtcYK2PgHXjplX3aZHwNhzPW6m1g0hLnJtJZDIAFmcs8wDC+b8dW/cN4NTJY/JOEoYLLyZ7m+nrpWiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\repo\\Address_Book_Systems-UC13-WriteToFile\\AddressBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
