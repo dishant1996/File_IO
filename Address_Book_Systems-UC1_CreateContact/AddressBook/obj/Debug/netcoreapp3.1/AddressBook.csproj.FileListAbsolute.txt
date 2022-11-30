@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\Admin\Desktop\repo\Address_Book_Systems-UC1_CreateContact\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
